@@ -131,8 +131,7 @@ STATICFILES_DIRS = [
 DEFAULT_AUTO_FIELD = 'django.db.models.BigAutoField'
 
 CORS_ALLOWED_ORIGINS = [
-    "https://attendance-backend-f4e3.onrender.com",
-    "https://attendance-frontend-8pvl.onrender.com",
+    "https://attendance-record-cyan.vercel.app/",
 ]
 
 CORS_ALLOW_CREDENTIALS = True
